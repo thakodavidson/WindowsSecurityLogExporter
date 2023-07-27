@@ -1,2 +1,1 @@
-# WindowsSecurityLogExporter
-Windows Security Log Exporter (RDP) failed Attemps
+This Powershell script in this repository can be used for parsing out Windows Security Event Logs information for failed (RDP) logins or attacks, using a third-party API to collect geographic information about the attacker's location. Mainly from their Public IP address
